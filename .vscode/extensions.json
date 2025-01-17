@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		"rajeshwaran.developer-theme-dark",
+		"mikestead.dotenv",
+		"dbaeumer.vscode-eslint",
+		"wix.vscode-import-cost",
+		"christian-kohler.npm-intellisense",
+		"esbenp.prettier-vscode",
+		"yoavbls.pretty-ts-errors",
+		"prisma.prisma"
+	]
+}
