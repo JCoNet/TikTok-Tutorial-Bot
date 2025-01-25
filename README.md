@@ -24,3 +24,8 @@ Once that has completed, you can now start your development server for this bot 
 ```bash
 pnpm start:dev
 ```
+
+Get api keys and tokens as follows
+
+-   Discord: [https://discord.com/developers](https://discord.com/developers)
+-   Groq (ai): [https://console.groq.com](https://console.groq.com)
